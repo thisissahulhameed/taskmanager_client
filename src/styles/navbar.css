@@ -1,0 +1,10 @@
+* {
+  font-family: sans-serif;
+}
+.navbar {
+  color: white;
+  letter-spacing: 0.8px;
+  background-color: rgb(243, 91, 80);
+  text-align: center;
+  padding: 6px;
+}

@@ -1,0 +1,53 @@
+.allmytask {
+  border: 1px solid rgb(243, 91, 80);
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 18px;
+  letter-spacing: 0.7px;
+}
+
+.strong {
+  display: inline-block;
+}
+
+.smalltitle {
+  color: rgba(3, 54, 66, 0.932);
+  display: inline;
+}
+
+.editbutton {
+  background: none;
+  border: none;
+  padding: 5px;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  color: white;
+  background: rgb(255, 119, 39);
+  border-radius: 5px;
+  float: right;
+}
+.updatebutton {
+  background: none;
+  border: none;
+  padding: 5px;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  color: white;
+  background: rgb(5, 119, 39);
+  border-radius: 5px;
+  margin-left: 150px;
+
+}
+
+.deletebutton {
+  background: none;
+  border: none;
+  padding: 5px;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  color: white;
+  background: rgb(255, 64, 39);
+  border-radius: 5px;
+  margin-left: 150px;
+}
